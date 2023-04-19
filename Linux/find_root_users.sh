@@ -1,4 +1,5 @@
 #Run as root and in user's root directories (or /opt)
+#chmod 700 find_root_users.sh
 #!/bin/bash
 
 # Ищем UID равный 0 в файле /etc/passwd
